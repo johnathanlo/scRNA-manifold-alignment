@@ -9,3 +9,4 @@
 *.h5ad filter=lfs diff=lfs merge=lfs -text
 *.mtx filter=lfs diff=lfs merge=lfs -text
 *.mtx.gz filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
